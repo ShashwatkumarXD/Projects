@@ -1,4 +1,5 @@
-Apr,2023 - Dec,2023
-Smart Sensor Based Waste Management System | Embedded C/C++. | Hardware: Arduino, Ultrasonic Sensor, Load Cell Amplifier (HX711), Gas Sensor, RTC DS3231.
-  
-  Led the development of a data-driven waste management solution integrating IoT sensors for real-time monitoring of fill levels, optimizing collection routes, and reducing operational costs. Implemented predictive analytics for efficient resource allocation, contributing to sustainable urban development.  
+<h1 align="center" id="title">Sensor Based Smart City Refuse Management System</h1>
+
+<p align="center"><img src="https://socialify.git.ci/ShashwatkumarXD/Projects/image?language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+
+<p id="description">Led development of a data-driven waste management solution integrating IoT sensors for real-time monitoring of fill levels optimizing collection routes and reducing operational costs. Implemented predictive analytics for efficient resource allocation contributing to sustainable urban development.</p>
